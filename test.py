@@ -52,7 +52,7 @@ with torch.no_grad():
     lab_imgs=lab_imgs.cuda().type(dtype)
     gray_imgs=gray_imgs.cuda().type(dtype)
     imgs=imgs.cuda().type(dtype)
-    fake_img=Gen_Model(gray_imgs)
+    fake_img=model(gray_imgs)
     for j in range(lab_imgs.size(0)):
       print("GrayScale Image - ")
       imgrayshow(gray_imgs[0],'test',config.test_img_name)
