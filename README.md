@@ -20,7 +20,7 @@ You can download the Places-365 dataset [here](http://places2.csail.mit.edu/down
 
 Feel free to use my trained weights using [this](https://drive.google.com/file/d/13qcY4A3bv0yfdmkVvML9BRhaQNnj55g_/view?usp=sharing) drive link.
 
-#### Some results from my YOLACT base model
+#### Some results of this model
 -----------Gray Scale Images ------------------------- Original Image --------------------------- Predicted Image --------
 ![Example 1](results/train_3.jpg)
 ![Example 2](results/test_5.jpg)
