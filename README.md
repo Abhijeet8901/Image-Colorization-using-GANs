@@ -7,7 +7,7 @@
 ╚██████╗╚██████╔╝███████╗╚██████╔╝██║  ██║██║███████╗███████╗
  ╚═════╝ ╚═════╝ ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝
 ```
-This is implementation of the paper [《Image Colorization using Generative Adversarial Networks》](https://arxiv.org/pdf/1803.05400).
+This is implementation of the paper [《Image Colorization using Generative Adversarial Networks》](https://arxiv.org/pdf/1803.05400). [![](https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg)](https://saythanks.io/to/abhijeetnarang.nr%40gmail.com)
 
 The process of automatic image colorization has been of significant interest for several application areas including restoration of aged or degraded images. This problem is highly ill-posed due to the large degrees of freedom during the assignment of color information. There have been many approaches using Deep Learning Models and Autoencoders but this was the first paper to use Generative Adversarial Networks.
 
